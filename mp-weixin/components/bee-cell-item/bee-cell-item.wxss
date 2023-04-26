@@ -1,0 +1,98 @@
+.cell-item.data-v-7174c4a8 {
+  position: relative;
+  width: 100%;
+}
+.cell-item__body.data-v-7174c4a8 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  min-height: 120rpx;
+  align-items: flex-start;
+  justify-content: space-between;
+  box-sizing: border-box;
+  padding: 15px 0;
+  width: 100%;
+}
+.cell-item__body__main.data-v-7174c4a8 {
+  display: flex;
+  min-height: 26px;
+  align-items: flex-start;
+  justify-content: center;
+  flex-direction: column;
+  min-width: 55px;
+  flex: 1;
+}
+.cell-item__body__content-title.data-v-7174c4a8 {
+  font-weight: 500;
+  font-size: 14px;
+  opacity: 0.8;
+  word-break: break-word;
+  transition: 0.3s;
+  display: -webkit-box;
+  overflow: hidden;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 1;
+}
+.cell-item.goods .cell-item__body__content-title.data-v-7174c4a8 {
+  font-weight: 600;
+  font-size: 17px;
+  opacity: 1;
+}
+.cell-item.goods .cell-item__body__content-brief.data-v-7174c4a8 {
+  font-weight: 800;
+  margin-top: 5rpx;
+  font-size: 19px;
+}
+.cell-item__body__content-brief.data-v-7174c4a8,
+.cell-item__body__right-brief.data-v-7174c4a8 {
+  font-size: 13px;
+  opacity: 0.4;
+  display: -webkit-box;
+  overflow: hidden;
+  word-break: break-word;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
+}
+.cell-item__body__content.data-v-7174c4a8 {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  flex: 1;
+}
+.cell-item__body__tag.data-v-7174c4a8 {
+  margin-left: 10rpx;
+}
+.cell-item__body__right.data-v-7174c4a8 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  justify-content: flex-end;
+  font-size: 13px;
+  text-align: right;
+  min-height: 26px;
+  flex: 1;
+}
+.cell-item__body__right .cell-item__body__right-text.data-v-7174c4a8 {
+  font-size: 13px;
+  flex: 1;
+  word-break: break-word;
+  width: 300rpx;
+  display: -webkit-box;
+  overflow: hidden;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 3;
+}
+.cell-item__body__right-arrow.data-v-7174c4a8 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  width: 22px;
+}
+.cell-item__children.data-v-7174c4a8 {
+  padding: 20rpx 0;
+  margin: 0 20rpx;
+}
+

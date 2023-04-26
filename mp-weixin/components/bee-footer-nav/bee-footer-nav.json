@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "bee-ico": "/components/bee-ico/bee-ico"
+  },
+  "component": true
+}

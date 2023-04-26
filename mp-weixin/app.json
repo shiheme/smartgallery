@@ -1,0 +1,65 @@
+{
+  "pages": [
+    "pages/index/index"
+  ],
+  "subPackages": [
+    {
+      "root": "pagesA/action",
+      "pages": [
+        "login",
+        "cats",
+        "transfer",
+        "vipuse",
+        "info"
+      ]
+    },
+    {
+      "root": "pagesA/page",
+      "pages": [
+        "search",
+        "page",
+        "block",
+        "bill",
+        "mycell"
+      ]
+    },
+    {
+      "root": "pagesB",
+      "pages": [
+        "single/single",
+        "single/quick",
+        "single/preview",
+        "single/active",
+        "single/words"
+      ]
+    }
+  ],
+  "window": {
+    "navigationBarTitleText": "",
+    "backgroundColorContent": "#ffffff00",
+    "navigationBarBackgroundColor": "@navBgColor",
+    "navigationBarTextStyle": "@navTxtStyle",
+    "backgroundColor": "@bgColor",
+    "backgroundTextStyle": "@bgTxtStyle",
+    "backgroundColorTop": "@bgColorTop",
+    "backgroundColorBottom": "@bgColorBottom"
+  },
+  "preloadRule": {
+    "pages/index/index": {
+      "network": "all",
+      "packages": [
+        "pagesA/action",
+        "pagesB"
+      ]
+    }
+  },
+  "themeLocation": "theme.json",
+  "requiredBackgroundModes": [
+    "audio"
+  ],
+  "renderer": "skyline",
+  "lazyCodeLoading": "requiredComponents",
+  "darkmode": true,
+  "sitemapLocation": "sitemap.json",
+  "usingComponents": {}
+}

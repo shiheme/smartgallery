@@ -1,0 +1,8 @@
+{
+  "usingComponents": {
+    "bee-videoads": "/components/bee-videoads/bee-videoads",
+    "bee-ico": "/components/bee-ico/bee-ico",
+    "mp-html": "/components/mp-html/mp-html"
+  },
+  "component": true
+}

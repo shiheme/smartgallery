@@ -1,0 +1,166 @@
+.page.mine.data-v-40b893c4 {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.container.data-v-40b893c4 {
+  width: 100%;
+  height: 100%;
+  z-index: 10;
+  background-color: transparent;
+}
+.content-main.data-v-40b893c4 {
+  width: 100%;
+}
+.my-items.data-v-40b893c4 {
+  padding-bottom: 220rpx;
+}
+.box-usercell.data-v-40b893c4 {
+  padding: 20px 20px 0 20px;
+}
+.box-usercell .card .card-cell.data-v-40b893c4 {
+  padding: 10rpx 40rpx;
+}
+.box-usercell .card .card-cell .card-list-cell.data-v-40b893c4 {
+  position: relative;
+}
+.box-usercell .card .card-cell .card-list-cell .button.data-v-40b893c4 {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border: none !important;
+  opacity: 0;
+  z-index: 15;
+}
+.box-usercell .card .bee-icon.data-v-40b893c4 {
+  margin-right: 15rpx;
+}
+.box-loginout.data-v-40b893c4 {
+  margin: 20px 20px 0 20px;
+}
+.box-loginout .card .text.data-v-40b893c4 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  height: 88rpx;
+}
+.my-info.data-v-40b893c4 {
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 0;
+}
+.my-info .info.data-v-40b893c4 {
+  position: relative;
+  height: 60px;
+}
+.my-info .info .name.data-v-40b893c4 {
+  font-size: 20px;
+  font-weight: bold;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+}
+.my-info .info .name .photobg.data-v-40b893c4 {
+  margin-right: 8px;
+}
+.my-info .vip.data-v-40b893c4 {
+  margin-top: 40rpx;
+}
+.my-info .vip .vipcnt.data-v-40b893c4 {
+  color: #ffffff;
+  padding: 16px;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.my-info .vip .vipcnt .useon.data-v-40b893c4 {
+  position: absolute;
+  right: 16px;
+  top: 16px;
+  display: flex;
+  height: 30px;
+  justify-content: center;
+  align-items: center;
+  background: #ffffff;
+  color: #333333;
+  font-size: 14px;
+  width: 66px;
+  border-radius: 30px;
+  z-index: 10;
+}
+.my-info .vip .vipcnt .tit.data-v-40b893c4 {
+  font-size: 15px;
+  font-weight: 500;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.my-info .vip .vipcnt .desc.data-v-40b893c4 {
+  margin-top: 2px;
+  font-size: 12px;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.my-info .vip .vipcnt .right.data-v-40b893c4 {
+  margin-top: 10px;
+  border-top: 1px solid rgba(255, 255, 255, 0.1);
+  flex-shrink: 0;
+}
+.my-info .vip .vipcnt .right .name.data-v-40b893c4 {
+  display: none;
+  font-size: 14px;
+}
+.my-info .vip .vipcnt .right .list.data-v-40b893c4 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  margin: 10px 0;
+}
+.my-info .vip .vipcnt .right .list .cell.data-v-40b893c4 {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  width: 33%;
+}
+.my-info .vip .vipcnt .right .list .cell .bee-icon.data-v-40b893c4 {
+  width: 44px;
+  height: 44px;
+}
+.my-info .vip .vipcnt .right .list .cell .txt.data-v-40b893c4 {
+  font-size: 13px;
+}
+.my-info .vip .vipcnt6.data-v-40b893c4 {
+  background: #FDC830;
+  background: linear-gradient(to right, #F37335, #FDC830);
+}
+.my-info .vip .vipcnt7.data-v-40b893c4 {
+  background: #FDC830;
+  background: linear-gradient(to right, #F37335, #FDC830);
+}
+.my-info .vip .vipcnt8.data-v-40b893c4 {
+  background: #00B4DB;
+  background: linear-gradient(to right, #0083B0, #00B4DB);
+}
+.my-info .vip .vipcnt9.data-v-40b893c4 {
+  background: #7F00FF;
+  background: linear-gradient(to right, #E100FF, #7F00FF);
+}
+.my-info .vip .vipcnt10.data-v-40b893c4 {
+  background: #F2994A;
+  background: linear-gradient(to right, #F2C94C, #F2994A);
+}
+

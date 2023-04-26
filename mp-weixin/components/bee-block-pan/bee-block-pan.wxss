@@ -1,0 +1,53 @@
+.block-pan .hidecntbtn.data-v-4499ec2c {
+  text-align: center;
+}
+.block-pan .card.libdownload.data-v-4499ec2c {
+  margin: 0 40rpx;
+  padding: 30rpx;
+}
+.block-pan .card.libdownload .hidecnt.data-v-4499ec2c {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.block-pan .card.libdownload .hidecnt .baidupan.data-v-4499ec2c {
+  width: 100%;
+}
+.block-pan .card.libdownload .hidecnt .baidupan .pathtopan.data-v-4499ec2c {
+  border-radius: 10rpx;
+  height: 88rpx;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  color: white;
+}
+.block-pan .card.libdownload .hidecnt .baidupan .pathtopan .bee-icon.data-v-4499ec2c {
+  margin-right: 10rpx;
+}
+.block-pan .card.libdownload .hidecnt .baidupan .tit.data-v-4499ec2c {
+  font-size: 28rpx;
+  margin-bottom: 10rpx;
+  opacity: .8;
+}
+.block-pan .card.libdownload .hidecnt .baidupan .desc.data-v-4499ec2c {
+  margin-bottom: 30rpx;
+}
+.block-pan .card.libdownload .hidecnt .baidupan .pre.data-v-4499ec2c {
+  font-size: 28rpx;
+  padding: 15rpx 20rpx;
+  font-style: italic;
+  border-radius: 10rpx;
+  font-weight: bold;
+  word-wrap: break-word;
+}
+.block-pan .card.libdownload .hidecnt .baidupan .code.data-v-4499ec2c {
+  text-align: center;
+  padding: 20rpx 40rpx;
+  font-weight: bold;
+  font-size: 60rpx;
+  opacity: .6;
+  border-radius: 10rpx;
+}
+

@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "bee-preview-list": "/pagesB/components/bee-preview-list/bee-preview-list"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "navigationStyle": "custom",
+  "enablePullDownRefresh": false,
+  "navigationBarTitleText": "",
+  "usingComponents": {
+    "bee-page": "/components/bee-page/bee-page",
+    "bee-preview-home": "/pagesB/components/bee-preview-home/bee-preview-home"
+  }
+}

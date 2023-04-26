@@ -1,0 +1,25 @@
+.block-imggroup .block-content.data-v-0af0f764 {
+  margin: 0 20px;
+  position: relative;
+}
+.block-imggroup .block-content .menuclick.data-v-0af0f764 {
+  position: absolute;
+}
+.block-imggroup .block-content .menuclick .icon-cover.data-v-0af0f764 {
+  position: absolute;
+  top: 0;
+  background-image: linear-gradient(rgba(0, 0, 0, 0) 50%, rgba(0, 0, 0, 0.3) 100%);
+}
+.block-imggroup .block-content .menuclick .text.data-v-0af0f764 {
+  position: absolute;
+  bottom: 0;
+  padding: 10px 0 5px 0;
+  text-align: center;
+  width: 80%;
+  color: white;
+  text-align: center;
+  left: 50%;
+  -webkit-transform: translateX(-50%);
+          transform: translateX(-50%);
+}
+

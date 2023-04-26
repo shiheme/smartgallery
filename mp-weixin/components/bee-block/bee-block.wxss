@@ -1,0 +1,19 @@
+.block-wrap.data-v-c053c86c {
+  position: relative;
+  margin-top: 18px;
+}
+.block-wrap .block-title.data-v-c053c86c {
+  position: relative;
+  margin: 0 20px;
+  margin-bottom: 10px;
+  font-weight: bold;
+  font-size: 17px;
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+}
+.block-wrap .block-title .icon.data-v-c053c86c {
+  border-radius: 3px;
+  margin-right: 5px;
+}
+

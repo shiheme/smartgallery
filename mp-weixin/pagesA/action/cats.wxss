@@ -1,0 +1,56 @@
+.bee-page.data-v-bd431cdc {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-end;
+  background-color: rgba(0, 0, 0, 0.3);
+  height: 100vh;
+}
+.safebtm.data-v-bd431cdc {
+  padding-bottom: calc(0rpx + env(safe-area-inset-bottom));
+}
+.catsselect.data-v-bd431cdc {
+  position: relative;
+  padding: 18px 0;
+}
+.catsselect .session.data-v-bd431cdc {
+  margin: 0 0 20px 0;
+}
+.catsselect .session .session-title.data-v-bd431cdc {
+  font-size: 15px;
+  margin-bottom: 15px;
+}
+.session.data-v-bd431cdc {
+  display: flex;
+  flex-direction: column;
+}
+.session .contentarea.data-v-bd431cdc {
+  flex: 1;
+  height: 0;
+}
+.session .bottomarea.data-v-bd431cdc {
+  height: 66px;
+}
+.session .bottomarea .button-group.data-v-bd431cdc {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.session .bottomarea .button-group .btn.data-v-bd431cdc {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  flex: 50%;
+  height: 66px;
+  border-radius: 5px;
+  text-align: center;
+  position: relative;
+  margin-left: 10px;
+}
+.session .bottomarea .button-group .btn.data-v-bd431cdc:first-child {
+  margin-left: 0;
+  border-left: 0;
+}
+

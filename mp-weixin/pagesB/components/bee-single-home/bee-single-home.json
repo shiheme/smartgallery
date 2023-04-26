@@ -1,0 +1,9 @@
+{
+  "component": true,
+  "usingComponents": {
+    "bee-nav-bar": "/components/bee-nav-bar/bee-nav-bar",
+    "bee-single-btn": "/components/bee-single-btn/bee-single-btn",
+    "bee-videoads": "/components/bee-videoads/bee-videoads",
+    "bee-single-list": "/pagesB/components/bee-single-list/bee-single-list"
+  }
+}

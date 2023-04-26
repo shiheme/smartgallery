@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "bee-preview-image": "/pagesB/components/bee-preview-image/bee-preview-image"
+  }
+}

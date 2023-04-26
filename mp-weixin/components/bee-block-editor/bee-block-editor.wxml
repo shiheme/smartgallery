@@ -1,0 +1,1 @@
+<view class="block-editor data-v-2aa58404"><view class="block-content data-v-2aa58404"><mp-html vue-id="2a0b7d82-1" content="{{blockData.content}}" class="data-v-2aa58404" bind:__l="__l"></mp-html></view></view>

@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+    "bee-menuclick": "/components/bee-menuclick/bee-menuclick",
+    "bee-ico": "/components/bee-ico/bee-ico"
+  },
+  "component": true
+}

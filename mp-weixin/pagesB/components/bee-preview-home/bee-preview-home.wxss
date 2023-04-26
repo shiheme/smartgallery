@@ -1,0 +1,40 @@
+.switem.data-v-2ff8c529 {
+  background-color: rgba(30, 30, 30, 0.3);
+  color: #141414;
+  width: 46px;
+  height: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 20px;
+  font-size: 10px;
+  font-weight: 600;
+  opacity: .4;
+}
+.switem.on.data-v-2ff8c529 {
+  -webkit-animation: 1.2s switem-on-data-v-2ff8c529 both cubic-bezier(0.45, 0.05, 0.55, 0.95);
+          animation: 1.2s switem-on-data-v-2ff8c529 both cubic-bezier(0.45, 0.05, 0.55, 0.95);
+}
+@-webkit-keyframes switem-on-data-v-2ff8c529 {
+0% {
+    -webkit-transform: scale(0);
+    transform: scale(0);
+}
+15% {
+    -webkit-transform: scale(1.25);
+    transform: scale(1.25);
+}
+32% {
+    -webkit-transform: scale(0.95);
+    transform: scale(0.95);
+}
+50% {
+    -webkit-transform: scale(1);
+    transform: scale(1);
+}
+to {
+    -webkit-transform: scale(1);
+    transform: scale(1);
+}
+}
+

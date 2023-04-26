@@ -1,0 +1,23 @@
+.bee-page.data-v-e2015816 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-end;
+  background-color: rgba(0, 0, 0, 0.3);
+  height: 100vh;
+}
+.safebtm.data-v-e2015816 {
+  padding-bottom: calc(0rpx + env(safe-area-inset-bottom));
+}
+.session.data-v-e2015816 {
+  display: flex;
+  flex-direction: column;
+}
+.session .contentarea.data-v-e2015816 {
+  flex: 1;
+  height: 0;
+}
+.session .words.data-v-e2015816 {
+  padding: 20px;
+}
+

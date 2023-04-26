@@ -1,0 +1,17 @@
+.bee-page.data-v-9c6861f8 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-end;
+  background-color: rgba(0, 0, 0, 0.5) !important;
+  height: 100vh;
+}
+.safebtm.data-v-9c6861f8 {
+  padding-bottom: calc(0rpx + env(safe-area-inset-bottom));
+}
+.session.data-v-9c6861f8 {
+  display: flex;
+  flex-direction: column;
+}
+

@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "bee-common-image": "/components/bee-common-image/bee-common-image"
+  },
+  "component": true
+}

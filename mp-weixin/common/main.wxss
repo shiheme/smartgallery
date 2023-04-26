@@ -1,0 +1,1718 @@
+.wrapper.light .forminput, .wrapper.light .uni-easyinput__content, .wrapper.light .checklist-box.is--tag, .wrapper.sym .forminput, .wrapper.sym .uni-easyinput__content, .wrapper.sym .checklist-box.is--tag {
+  border: 1px solid rgba(30, 30, 30, 0.03) !important;
+  background: white !important;
+  color: rgba(20, 20, 20, 0.8) !important;
+}
+.wrapper.light .forminput .checklist-text, .wrapper.light .uni-easyinput__content .checklist-text, .wrapper.light .checklist-box.is--tag .checklist-text, .wrapper.sym .forminput .checklist-text, .wrapper.sym .uni-easyinput__content .checklist-text, .wrapper.sym .checklist-box.is--tag .checklist-text {
+  color: rgba(20, 20, 20, 0.8) !important;
+}
+.wrapper.light .checklist-box.is--tag.is-checked .checklist-text,
+.wrapper.sym .checklist-box.is--tag.is-checked .checklist-text {
+  color: white !important;
+}
+.wrapper.light .navbar.navbar_bg .btn .bee-icon,
+.wrapper.sym .navbar.navbar_bg .btn .bee-icon {
+  color: #000000;
+}
+.wrapper.light .homebillmark,
+.wrapper.sym .homebillmark {
+  background-color: whitesmoke;
+}
+.wrapper.light .sharebox,
+.wrapper.sym .sharebox {
+  background-color: rgba(245, 245, 245, 0.95);
+  -webkit-backdrop-filter: blur(5px);
+          backdrop-filter: blur(5px);
+}
+.wrapper.light .sharebox .tohome,
+.wrapper.sym .sharebox .tohome {
+  border: 2px solid rgba(30, 30, 30, 0.5);
+}
+.wrapper.light .bee-page, .wrapper.light .wrap-main, .wrapper.sym .bee-page, .wrapper.sym .wrap-main {
+  color: rgba(20, 20, 20, 0.8);
+  background-color: whitesmoke;
+}
+.wrapper.light .bee-page .actionbg, .wrapper.light .wrap-main .actionbg, .wrapper.sym .bee-page .actionbg, .wrapper.sym .wrap-main .actionbg {
+  color: rgba(20, 20, 20, 0.8);
+  background-color: whitesmoke;
+}
+.wrapper.light .loading .box1,
+.wrapper.sym .loading .box1 {
+  background-color: whitesmoke;
+  color: rgba(255, 255, 255, 0.8);
+}
+.wrapper.light .logo .text,
+.wrapper.sym .logo .text {
+  color: rgba(20, 20, 20, 0.6);
+}
+.wrapper.light .search-box,
+.wrapper.sym .search-box {
+  background: white;
+}
+.wrapper.light .photobg,
+.wrapper.sym .photobg {
+  background: white;
+}
+.wrapper.light .chooseatr,
+.wrapper.sym .chooseatr {
+  background: white;
+}
+.wrapper.light .foot,
+.wrapper.sym .foot {
+  background-color: rgba(245, 245, 245, 0.95);
+  -webkit-backdrop-filter: blur(5px);
+          backdrop-filter: blur(5px);
+}
+.wrapper.light .foot.cool2,
+.wrapper.sym .foot.cool2 {
+  background-color: rgba(245, 245, 245, 0.95);
+  -webkit-backdrop-filter: blur(5px);
+          backdrop-filter: blur(5px);
+}
+.wrapper.light .foot-box-content,
+.wrapper.sym .foot-box-content {
+  color: rgba(20, 20, 20, 0.6);
+}
+.wrapper.light .topwrap .before,
+.wrapper.sym .topwrap .before {
+  background-color: rgba(245, 245, 245, 0.95);
+  -webkit-backdrop-filter: blur(5px);
+          backdrop-filter: blur(5px);
+}
+.wrapper.light .navbar.navbar_bg .btn .bee-icon,
+.wrapper.sym .navbar.navbar_bg .btn .bee-icon {
+  color: black;
+}
+.wrapper.light .active_filter,
+.wrapper.sym .active_filter {
+  background: white;
+}
+.wrapper.light .tabBarBg,
+.wrapper.sym .tabBarBg {
+  background-color: rgba(245, 245, 245, 0.95);
+  -webkit-backdrop-filter: blur(5px);
+          backdrop-filter: blur(5px);
+}
+.wrapper.light .tab-bar-block,
+.wrapper.sym .tab-bar-block {
+  background-color: rgba(20, 20, 20, 0.6);
+}
+.wrapper.light .cell-item.border,
+.wrapper.sym .cell-item.border {
+  border-bottom: 1rpx solid rgba(0, 0, 0, 0.05);
+}
+.wrapper.light .cell-item__body__right .cell-item__body__right-text,
+.wrapper.sym .cell-item__body__right .cell-item__body__right-text {
+  color: rgba(0, 0, 0, 0.6);
+}
+.wrapper.light .search-box.changebg,
+.wrapper.sym .search-box.changebg {
+  background: whitesmoke;
+}
+.wrapper.light .toparea,
+.wrapper.sym .toparea {
+  border-bottom: 1rpx solid rgba(20, 20, 20, 0.1);
+}
+.wrapper.light .button-group,
+.wrapper.sym .button-group {
+  border-top: 1rpx solid rgba(20, 20, 20, 0.1);
+}
+.wrapper.light .button-group .btn,
+.wrapper.sym .button-group .btn {
+  border-left: 1rpx solid rgba(20, 20, 20, 0.1);
+}
+.wrapper.light .transferbox,
+.wrapper.sym .transferbox {
+  background: white;
+}
+.wrapper.light .transfer,
+.wrapper.sym .transfer {
+  background: whitesmoke;
+}
+.wrapper.light .transfer .cell .border,
+.wrapper.sym .transfer .cell .border {
+  border-bottom: 1rpx solid rgba(20, 20, 20, 0.1);
+}
+.wrapper.light .transferbtm,
+.wrapper.sym .transferbtm {
+  background: whitesmoke;
+}
+.wrapper.light .switem,
+.wrapper.sym .switem {
+  background-color: rgba(30, 30, 30, 0.3);
+  color: #141414;
+}
+.wrapper.light .card,
+.wrapper.sym .card {
+  background-color: white;
+}
+.wrapper.light .block-mark .style0 .textarea,
+.wrapper.sym .block-mark .style0 .textarea {
+  background-color: rgba(20, 20, 20, 0.1);
+}
+.wrapper.light .block-pan .card.libdownload,
+.wrapper.sym .block-pan .card.libdownload {
+  background-color: white;
+}
+.wrapper.light .block-pan .card.libdownload .pre, .wrapper.light .block-pan .card.libdownload .code, .wrapper.sym .block-pan .card.libdownload .pre, .wrapper.sym .block-pan .card.libdownload .code {
+  background-color: whitesmoke;
+}
+.wrapper.light .block-pan .card.libdownload.changebg,
+.wrapper.sym .block-pan .card.libdownload.changebg {
+  background-color: whitesmoke;
+}
+.wrapper.light .block-pan .card.libdownload.changebg .pre,
+.wrapper.sym .block-pan .card.libdownload.changebg .pre {
+  background-color: white;
+}
+.wrapper.dark .forminput, .wrapper.dark .uni-easyinput__content, .wrapper.dark .checklist-box.is--tag {
+  border: 1px solid rgba(245, 245, 245, 0.03) !important;
+  background: #141414 !important;
+  color: rgba(255, 255, 255, 0.8) !important;
+}
+.wrapper.dark .forminput .checklist-text, .wrapper.dark .uni-easyinput__content .checklist-text, .wrapper.dark .checklist-box.is--tag .checklist-text {
+  color: rgba(255, 255, 255, 0.8) !important;
+}
+.wrapper.dark .checklist-box.is--tag.is-checked .checklist-text {
+  color: white !important;
+}
+.wrapper.dark .navbar.navbar_bg .btn .bee-icon {
+  color: #ffffff;
+}
+.wrapper.dark .homebillmark {
+  background-color: #1e1e1e;
+}
+.wrapper.dark .sharebox {
+  background-color: rgba(30, 30, 30, 0.95);
+  -webkit-backdrop-filter: blur(5px);
+          backdrop-filter: blur(5px);
+}
+.wrapper.dark .sharebox .tohome {
+  border: 2px solid rgba(245, 245, 245, 0.5);
+}
+.wrapper.dark .bee-page, .wrapper.dark .wrap-main {
+  color: rgba(255, 255, 255, 0.8);
+  background-color: #1e1e1e;
+}
+.wrapper.dark .loading .box1 {
+  background-color: #1e1e1e;
+  color: rgba(255, 255, 255, 0.8);
+}
+.wrapper.dark .logo .text {
+  color: rgba(255, 255, 255, 0.6);
+}
+.wrapper.dark .search-box {
+  background: #141414;
+}
+.wrapper.dark .photobg {
+  background: #141414;
+}
+.wrapper.dark .chooseatr {
+  background: #141414;
+}
+.wrapper.dark .foot {
+  background-color: rgba(30, 30, 30, 0.95);
+  -webkit-backdrop-filter: blur(5px);
+          backdrop-filter: blur(5px);
+}
+.wrapper.dark .foot.cool2 {
+  background-color: rgba(30, 30, 30, 0.95);
+  -webkit-backdrop-filter: blur(5px);
+          backdrop-filter: blur(5px);
+}
+.wrapper.dark .foot-box-content {
+  color: rgba(255, 255, 255, 0.4);
+}
+.wrapper.dark .topwrap .before {
+  background-color: rgba(30, 30, 30, 0.95);
+  -webkit-backdrop-filter: blur(5px);
+          backdrop-filter: blur(5px);
+}
+.wrapper.dark .navbar.navbar_bg .btn .bee-icon {
+  color: white;
+}
+.wrapper.dark .active_filter {
+  background: #141414;
+}
+.wrapper.dark .tabBarBg {
+  background-color: rgba(30, 30, 30, 0.95);
+  -webkit-backdrop-filter: blur(5px);
+          backdrop-filter: blur(5px);
+}
+.wrapper.dark .tab-bar-block {
+  background-color: rgba(255, 255, 255, 0.6);
+}
+.wrapper.dark .cell-item.border {
+  border-bottom: 1rpx solid rgba(255, 255, 255, 0.05);
+}
+.wrapper.dark .cell-item__body__right .cell-item__body__right-text {
+  color: rgba(255, 255, 255, 0.6);
+}
+.wrapper.dark .search-box__content.changebg {
+  background: #141414;
+}
+.wrapper.dark .toparea {
+  border-bottom: 1rpx solid rgba(255, 255, 255, 0.1);
+}
+.wrapper.dark .button-group {
+  border-top: 1rpx solid rgba(255, 255, 255, 0.1);
+}
+.wrapper.dark .button-group .btn {
+  border-left: 1rpx solid rgba(255, 255, 255, 0.1);
+}
+.wrapper.dark .transferbox {
+  background: #141414;
+}
+.wrapper.dark .transfer {
+  background: #1e1e1e;
+}
+.wrapper.dark .transfer .cell .border {
+  border-bottom: 1rpx solid rgba(255, 255, 255, 0.1);
+}
+.wrapper.dark .transferbtm {
+  background: #1e1e1e;
+}
+.wrapper.dark .iconsvgimg {
+  -webkit-filter: invert(1);
+          filter: invert(1);
+}
+.wrapper.dark .switem {
+  background-color: rgba(245, 245, 245, 0.3);
+  color: white;
+}
+.wrapper.dark .card {
+  background-color: #141414;
+}
+.wrapper.dark .block-mark .style0 .textarea {
+  background-color: rgba(255, 255, 255, 0.1);
+}
+.wrapper.dark .block-pan .card.libdownload {
+  background-color: #141414;
+}
+.wrapper.dark .block-pan .card.libdownload .pre, .wrapper.dark .block-pan .card.libdownload .code {
+  background-color: #1e1e1e;
+}
+.wrapper.dark .block-pan .card.libdownload.changebg {
+  background-color: #1e1e1e;
+}
+.wrapper.dark .block-pan .card.libdownload.changebg .pre {
+  background-color: #141414;
+}
+@media (prefers-color-scheme: dark) {
+.wrapper.sym .forminput, .wrapper.sym .uni-easyinput__content, .wrapper.sym .checklist-box.is--tag {
+    border: 1px solid rgba(245, 245, 245, 0.03) !important;
+    background: #141414 !important;
+    color: rgba(255, 255, 255, 0.8) !important;
+}
+.wrapper.sym .forminput .checklist-text, .wrapper.sym .uni-easyinput__content .checklist-text, .wrapper.sym .checklist-box.is--tag .checklist-text {
+    color: rgba(255, 255, 255, 0.8) !important;
+}
+.wrapper.sym .checklist-box.is--tag.is-checked .checklist-text {
+    color: white !important;
+}
+.wrapper.sym .navbar.navbar_bg .btn .bee-icon {
+    color: #ffffff;
+}
+.wrapper.sym .homebillmark {
+    background-color: #1e1e1e;
+}
+.wrapper.sym .sharebox {
+    background-color: rgba(30, 30, 30, 0.95);
+    -webkit-backdrop-filter: blur(5px);
+            backdrop-filter: blur(5px);
+}
+.wrapper.sym .sharebox .tohome {
+    border: 2px solid rgba(245, 245, 245, 0.5);
+}
+.wrapper.sym .bee-page, .wrapper.sym .wrap-main {
+    color: rgba(255, 255, 255, 0.8);
+    background-color: #1e1e1e;
+}
+.wrapper.sym .loading .box1 {
+    background-color: #1e1e1e;
+    color: rgba(255, 255, 255, 0.8);
+}
+.wrapper.sym .logo .text {
+    color: rgba(255, 255, 255, 0.6);
+}
+.wrapper.sym .search-box {
+    background: #141414;
+}
+.wrapper.sym .photobg {
+    background: #141414;
+}
+.wrapper.sym .chooseatr {
+    background: #141414;
+}
+.wrapper.sym .foot {
+    background-color: rgba(30, 30, 30, 0.95);
+    -webkit-backdrop-filter: blur(5px);
+            backdrop-filter: blur(5px);
+}
+.wrapper.sym .foot.cool2 {
+    background-color: rgba(30, 30, 30, 0.95);
+    -webkit-backdrop-filter: blur(5px);
+            backdrop-filter: blur(5px);
+}
+.wrapper.sym .foot-box-content {
+    color: rgba(255, 255, 255, 0.4);
+}
+.wrapper.sym .topwrap .before {
+    background-color: rgba(30, 30, 30, 0.95);
+    -webkit-backdrop-filter: blur(5px);
+            backdrop-filter: blur(5px);
+}
+.wrapper.sym .navbar.navbar_bg .btn .bee-icon {
+    color: white;
+}
+.wrapper.sym .active_filter {
+    background: #141414;
+}
+.wrapper.sym .tabBarBg {
+    background-color: rgba(30, 30, 30, 0.95);
+    -webkit-backdrop-filter: blur(5px);
+            backdrop-filter: blur(5px);
+}
+.wrapper.sym .tab-bar-block {
+    background-color: rgba(255, 255, 255, 0.6);
+}
+.wrapper.sym .cell-item.border {
+    border-bottom: 1rpx solid rgba(255, 255, 255, 0.05);
+}
+.wrapper.sym .cell-item__body__right .cell-item__body__right-text {
+    color: rgba(255, 255, 255, 0.6);
+}
+.wrapper.sym .search-box__content.changebg {
+    background: #141414;
+}
+.wrapper.sym .toparea {
+    border-bottom: 1rpx solid rgba(255, 255, 255, 0.1);
+}
+.wrapper.sym .button-group {
+    border-top: 1rpx solid rgba(255, 255, 255, 0.1);
+}
+.wrapper.sym .button-group .btn {
+    border-left: 1rpx solid rgba(255, 255, 255, 0.1);
+}
+.wrapper.sym .transferbox {
+    background: #141414;
+}
+.wrapper.sym .transfer {
+    background: #1e1e1e;
+}
+.wrapper.sym .transfer .cell .border {
+    border-bottom: 1rpx solid rgba(255, 255, 255, 0.1);
+}
+.wrapper.sym .transferbtm {
+    background: #1e1e1e;
+}
+.wrapper.sym .iconsvgimg {
+    -webkit-filter: invert(1);
+            filter: invert(1);
+}
+.wrapper.sym .switem {
+    background-color: rgba(245, 245, 245, 0.3);
+    color: white;
+}
+.wrapper.sym .card {
+    background-color: #141414;
+}
+.wrapper.sym .block-mark .style0 .textarea {
+    background-color: rgba(255, 255, 255, 0.1);
+}
+}
+.snowflake {
+  --size: 3vw;
+  width: var(--size);
+  height: var(--size);
+  background: white;
+  border-radius: 50%;
+  position: absolute;
+  top: -5vh;
+}
+@-webkit-keyframes snowfall {
+0% {
+    -webkit-transform: translate3d(0, 0, 0);
+            transform: translate3d(0, 0, 0);
+}
+100% {
+    -webkit-transform: translate3d(0, 110vh, 0);
+            transform: translate3d(0, 110vh, 0);
+}
+}
+@keyframes snowfall {
+0% {
+    -webkit-transform: translate3d(0, 0, 0);
+            transform: translate3d(0, 0, 0);
+}
+100% {
+    -webkit-transform: translate3d(0, 110vh, 0);
+            transform: translate3d(0, 110vh, 0);
+}
+}
+.snowflake:nth-child(1) {
+  --size: 2.4vw;
+  --left-ini: 2vw;
+  --left-end: -7vw;
+  left: 56vw;
+  -webkit-animation: snowfall 13s linear infinite;
+          animation: snowfall 13s linear infinite;
+  -webkit-animation-delay: -7s;
+          animation-delay: -7s;
+}
+.snowflake:nth-child(2) {
+  --size: 3vw;
+  --left-ini: -9vw;
+  --left-end: -7vw;
+  left: 91vw;
+  -webkit-animation: snowfall 6s linear infinite;
+          animation: snowfall 6s linear infinite;
+  -webkit-animation-delay: -5s;
+          animation-delay: -5s;
+}
+.snowflake:nth-child(3) {
+  --size: 2.4vw;
+  --left-ini: -8vw;
+  --left-end: 1vw;
+  left: 85vw;
+  -webkit-animation: snowfall 14s linear infinite;
+          animation: snowfall 14s linear infinite;
+  -webkit-animation-delay: -1s;
+          animation-delay: -1s;
+}
+.snowflake:nth-child(4) {
+  --size: 1.2vw;
+  --left-ini: -2vw;
+  --left-end: 5vw;
+  left: 6vw;
+  -webkit-animation: snowfall 6s linear infinite;
+          animation: snowfall 6s linear infinite;
+  -webkit-animation-delay: -6s;
+          animation-delay: -6s;
+}
+.snowflake:nth-child(5) {
+  --size: 0.6vw;
+  --left-ini: 4vw;
+  --left-end: -9vw;
+  left: 53vw;
+  -webkit-animation: snowfall 14s linear infinite;
+          animation: snowfall 14s linear infinite;
+  -webkit-animation-delay: -10s;
+          animation-delay: -10s;
+}
+.snowflake:nth-child(6) {
+  --size: 1.2vw;
+  --left-ini: -8vw;
+  --left-end: 7vw;
+  left: 19vw;
+  -webkit-animation: snowfall 8s linear infinite;
+          animation: snowfall 8s linear infinite;
+  -webkit-animation-delay: -5s;
+          animation-delay: -5s;
+}
+.snowflake:nth-child(7) {
+  --size: 3vw;
+  --left-ini: 10vw;
+  --left-end: 7vw;
+  left: 79vw;
+  -webkit-animation: snowfall 11s linear infinite;
+          animation: snowfall 11s linear infinite;
+  -webkit-animation-delay: -1s;
+          animation-delay: -1s;
+}
+.snowflake:nth-child(8) {
+  --size: 1.2vw;
+  --left-ini: 10vw;
+  --left-end: -5vw;
+  left: 67vw;
+  -webkit-animation: snowfall 7s linear infinite;
+          animation: snowfall 7s linear infinite;
+  -webkit-animation-delay: -2s;
+          animation-delay: -2s;
+}
+.snowflake:nth-child(9) {
+  --size: 1.8vw;
+  --left-ini: 5vw;
+  --left-end: -1vw;
+  left: 65vw;
+  -webkit-animation: snowfall 6s linear infinite;
+          animation: snowfall 6s linear infinite;
+  -webkit-animation-delay: -2s;
+          animation-delay: -2s;
+}
+.snowflake:nth-child(10) {
+  --size: 1.8vw;
+  --left-ini: -4vw;
+  --left-end: 4vw;
+  left: 48vw;
+  -webkit-animation: snowfall 15s linear infinite;
+          animation: snowfall 15s linear infinite;
+  -webkit-animation-delay: -8s;
+          animation-delay: -8s;
+}
+.snowflake:nth-child(11) {
+  --size: 0.6vw;
+  --left-ini: -8vw;
+  --left-end: 10vw;
+  left: 81vw;
+  -webkit-animation: snowfall 10s linear infinite;
+          animation: snowfall 10s linear infinite;
+  -webkit-animation-delay: -10s;
+          animation-delay: -10s;
+}
+.snowflake:nth-child(12) {
+  --size: 1.2vw;
+  --left-ini: 10vw;
+  --left-end: -2vw;
+  left: 95vw;
+  -webkit-animation: snowfall 12s linear infinite;
+          animation: snowfall 12s linear infinite;
+  -webkit-animation-delay: -7s;
+          animation-delay: -7s;
+}
+.snowflake:nth-child(13) {
+  --size: 0.6vw;
+  --left-ini: 5vw;
+  --left-end: -5vw;
+  left: 15vw;
+  -webkit-animation: snowfall 15s linear infinite;
+          animation: snowfall 15s linear infinite;
+  -webkit-animation-delay: -1s;
+          animation-delay: -1s;
+}
+.snowflake:nth-child(14) {
+  --size: 2.4vw;
+  --left-ini: -2vw;
+  --left-end: 1vw;
+  left: 57vw;
+  -webkit-animation: snowfall 8s linear infinite;
+          animation: snowfall 8s linear infinite;
+  -webkit-animation-delay: -6s;
+          animation-delay: -6s;
+}
+.snowflake:nth-child(15) {
+  --size: 2.4vw;
+  --left-ini: -6vw;
+  --left-end: 10vw;
+  left: 55vw;
+  -webkit-animation: snowfall 6s linear infinite;
+          animation: snowfall 6s linear infinite;
+  -webkit-animation-delay: -10s;
+          animation-delay: -10s;
+}
+.snowflake:nth-child(16) {
+  --size: 3vw;
+  --left-ini: 3vw;
+  --left-end: -3vw;
+  left: 15vw;
+  -webkit-animation: snowfall 11s linear infinite;
+          animation: snowfall 11s linear infinite;
+  -webkit-animation-delay: -7s;
+          animation-delay: -7s;
+}
+.snowflake:nth-child(17) {
+  --size: 1.2vw;
+  --left-ini: -3vw;
+  --left-end: -8vw;
+  left: 52vw;
+  -webkit-animation: snowfall 6s linear infinite;
+          animation: snowfall 6s linear infinite;
+  -webkit-animation-delay: -3s;
+          animation-delay: -3s;
+}
+.snowflake:nth-child(18) {
+  --size: 1.8vw;
+  --left-ini: -3vw;
+  --left-end: 2vw;
+  left: 34vw;
+  -webkit-animation: snowfall 9s linear infinite;
+          animation: snowfall 9s linear infinite;
+  -webkit-animation-delay: -9s;
+          animation-delay: -9s;
+}
+.snowflake:nth-child(19) {
+  --size: 3vw;
+  --left-ini: -3vw;
+  --left-end: 3vw;
+  left: 86vw;
+  -webkit-animation: snowfall 13s linear infinite;
+          animation: snowfall 13s linear infinite;
+  -webkit-animation-delay: -3s;
+          animation-delay: -3s;
+}
+.snowflake:nth-child(20) {
+  --size: 0.6vw;
+  --left-ini: 6vw;
+  --left-end: 10vw;
+  left: 36vw;
+  -webkit-animation: snowfall 9s linear infinite;
+          animation: snowfall 9s linear infinite;
+  -webkit-animation-delay: -4s;
+          animation-delay: -4s;
+}
+.snowflake:nth-child(21) {
+  --size: 1.2vw;
+  --left-ini: -2vw;
+  --left-end: -1vw;
+  left: 89vw;
+  -webkit-animation: snowfall 13s linear infinite;
+          animation: snowfall 13s linear infinite;
+  -webkit-animation-delay: -4s;
+          animation-delay: -4s;
+}
+.snowflake:nth-child(22) {
+  --size: 1.2vw;
+  --left-ini: 1vw;
+  --left-end: -3vw;
+  left: 19vw;
+  -webkit-animation: snowfall 14s linear infinite;
+          animation: snowfall 14s linear infinite;
+  -webkit-animation-delay: -9s;
+          animation-delay: -9s;
+}
+.snowflake:nth-child(23) {
+  --size: 2.4vw;
+  --left-ini: -2vw;
+  --left-end: 5vw;
+  left: 39vw;
+  -webkit-animation: snowfall 7s linear infinite;
+          animation: snowfall 7s linear infinite;
+  -webkit-animation-delay: -9s;
+          animation-delay: -9s;
+}
+.snowflake:nth-child(24) {
+  --size: 1.8vw;
+  --left-ini: 9vw;
+  --left-end: 1vw;
+  left: 37vw;
+  -webkit-animation: snowfall 12s linear infinite;
+          animation: snowfall 12s linear infinite;
+  -webkit-animation-delay: -9s;
+          animation-delay: -9s;
+}
+.snowflake:nth-child(25) {
+  --size: 0.6vw;
+  --left-ini: 5vw;
+  --left-end: -3vw;
+  left: 98vw;
+  -webkit-animation: snowfall 13s linear infinite;
+          animation: snowfall 13s linear infinite;
+  -webkit-animation-delay: -10s;
+          animation-delay: -10s;
+}
+.snowflake:nth-child(26) {
+  --size: 3vw;
+  --left-ini: 9vw;
+  --left-end: 6vw;
+  left: 40vw;
+  -webkit-animation: snowfall 12s linear infinite;
+          animation: snowfall 12s linear infinite;
+  -webkit-animation-delay: -7s;
+          animation-delay: -7s;
+}
+.snowflake:nth-child(27) {
+  --size: 1.8vw;
+  --left-ini: 7vw;
+  --left-end: 4vw;
+  left: 46vw;
+  -webkit-animation: snowfall 12s linear infinite;
+          animation: snowfall 12s linear infinite;
+  -webkit-animation-delay: -6s;
+          animation-delay: -6s;
+}
+.snowflake:nth-child(28) {
+  --size: 3vw;
+  --left-ini: -6vw;
+  --left-end: 0vw;
+  left: 15vw;
+  -webkit-animation: snowfall 8s linear infinite;
+          animation: snowfall 8s linear infinite;
+  -webkit-animation-delay: -3s;
+          animation-delay: -3s;
+}
+.snowflake:nth-child(29) {
+  --size: 3vw;
+  --left-ini: 4vw;
+  --left-end: -9vw;
+  left: 23vw;
+  -webkit-animation: snowfall 15s linear infinite;
+          animation: snowfall 15s linear infinite;
+  -webkit-animation-delay: -9s;
+          animation-delay: -9s;
+}
+.snowflake:nth-child(30) {
+  --size: 1.2vw;
+  --left-ini: -5vw;
+  --left-end: 7vw;
+  left: 82vw;
+  -webkit-animation: snowfall 7s linear infinite;
+          animation: snowfall 7s linear infinite;
+  -webkit-animation-delay: -1s;
+          animation-delay: -1s;
+}
+.snowflake:nth-child(31) {
+  --size: 1.2vw;
+  --left-ini: 0vw;
+  --left-end: -7vw;
+  left: 15vw;
+  -webkit-animation: snowfall 12s linear infinite;
+          animation: snowfall 12s linear infinite;
+  -webkit-animation-delay: -7s;
+          animation-delay: -7s;
+}
+.snowflake:nth-child(32) {
+  --size: 3vw;
+  --left-ini: 3vw;
+  --left-end: 3vw;
+  left: 34vw;
+  -webkit-animation: snowfall 15s linear infinite;
+          animation: snowfall 15s linear infinite;
+  -webkit-animation-delay: -9s;
+          animation-delay: -9s;
+}
+.snowflake:nth-child(33) {
+  --size: 1.2vw;
+  --left-ini: -9vw;
+  --left-end: -4vw;
+  left: 92vw;
+  -webkit-animation: snowfall 10s linear infinite;
+          animation: snowfall 10s linear infinite;
+  -webkit-animation-delay: -3s;
+          animation-delay: -3s;
+}
+.snowflake:nth-child(34) {
+  --size: 1.2vw;
+  --left-ini: 6vw;
+  --left-end: 1vw;
+  left: 57vw;
+  -webkit-animation: snowfall 14s linear infinite;
+          animation: snowfall 14s linear infinite;
+  -webkit-animation-delay: -5s;
+          animation-delay: -5s;
+}
+.snowflake:nth-child(35) {
+  --size: 3vw;
+  --left-ini: 0vw;
+  --left-end: 7vw;
+  left: 91vw;
+  -webkit-animation: snowfall 7s linear infinite;
+          animation: snowfall 7s linear infinite;
+  -webkit-animation-delay: -2s;
+          animation-delay: -2s;
+}
+.snowflake:nth-child(36) {
+  --size: 1.2vw;
+  --left-ini: -3vw;
+  --left-end: 5vw;
+  left: 84vw;
+  -webkit-animation: snowfall 10s linear infinite;
+          animation: snowfall 10s linear infinite;
+  -webkit-animation-delay: -1s;
+          animation-delay: -1s;
+}
+.snowflake:nth-child(37) {
+  --size: 1.8vw;
+  --left-ini: 9vw;
+  --left-end: 1vw;
+  left: 93vw;
+  -webkit-animation: snowfall 6s linear infinite;
+          animation: snowfall 6s linear infinite;
+  -webkit-animation-delay: -1s;
+          animation-delay: -1s;
+}
+.snowflake:nth-child(38) {
+  --size: 3vw;
+  --left-ini: -8vw;
+  --left-end: 4vw;
+  left: 74vw;
+  -webkit-animation: snowfall 8s linear infinite;
+          animation: snowfall 8s linear infinite;
+  -webkit-animation-delay: -9s;
+          animation-delay: -9s;
+}
+.snowflake:nth-child(39) {
+  --size: 1.8vw;
+  --left-ini: 8vw;
+  --left-end: -3vw;
+  left: 76vw;
+  -webkit-animation: snowfall 6s linear infinite;
+          animation: snowfall 6s linear infinite;
+  -webkit-animation-delay: -1s;
+          animation-delay: -1s;
+}
+.snowflake:nth-child(40) {
+  --size: 0.6vw;
+  --left-ini: 6vw;
+  --left-end: 7vw;
+  left: 54vw;
+  -webkit-animation: snowfall 11s linear infinite;
+          animation: snowfall 11s linear infinite;
+  -webkit-animation-delay: -5s;
+          animation-delay: -5s;
+}
+.snowflake:nth-child(41) {
+  --size: 2.4vw;
+  --left-ini: 7vw;
+  --left-end: -8vw;
+  left: 55vw;
+  -webkit-animation: snowfall 7s linear infinite;
+          animation: snowfall 7s linear infinite;
+  -webkit-animation-delay: -8s;
+          animation-delay: -8s;
+}
+.snowflake:nth-child(42) {
+  --size: 2.4vw;
+  --left-ini: 10vw;
+  --left-end: -4vw;
+  left: 67vw;
+  -webkit-animation: snowfall 7s linear infinite;
+          animation: snowfall 7s linear infinite;
+  -webkit-animation-delay: -9s;
+          animation-delay: -9s;
+}
+.snowflake:nth-child(43) {
+  --size: 0.6vw;
+  --left-ini: -3vw;
+  --left-end: -7vw;
+  left: 7vw;
+  -webkit-animation: snowfall 6s linear infinite;
+          animation: snowfall 6s linear infinite;
+  -webkit-animation-delay: -8s;
+          animation-delay: -8s;
+}
+.snowflake:nth-child(44) {
+  --size: 1.2vw;
+  --left-ini: 0vw;
+  --left-end: -4vw;
+  left: 39vw;
+  -webkit-animation: snowfall 10s linear infinite;
+          animation: snowfall 10s linear infinite;
+  -webkit-animation-delay: -3s;
+          animation-delay: -3s;
+}
+.snowflake:nth-child(45) {
+  --size: 1.8vw;
+  --left-ini: -7vw;
+  --left-end: -5vw;
+  left: 72vw;
+  -webkit-animation: snowfall 10s linear infinite;
+          animation: snowfall 10s linear infinite;
+  -webkit-animation-delay: -10s;
+          animation-delay: -10s;
+}
+.snowflake:nth-child(46) {
+  --size: 0.6vw;
+  --left-ini: 2vw;
+  --left-end: -2vw;
+  left: 85vw;
+  -webkit-animation: snowfall 12s linear infinite;
+          animation: snowfall 12s linear infinite;
+  -webkit-animation-delay: -8s;
+          animation-delay: -8s;
+}
+.snowflake:nth-child(47) {
+  --size: 1.8vw;
+  --left-ini: -3vw;
+  --left-end: -5vw;
+  left: 30vw;
+  -webkit-animation: snowfall 15s linear infinite;
+          animation: snowfall 15s linear infinite;
+  -webkit-animation-delay: -4s;
+          animation-delay: -4s;
+}
+.snowflake:nth-child(48) {
+  --size: 1.8vw;
+  --left-ini: -3vw;
+  --left-end: 9vw;
+  left: 91vw;
+  -webkit-animation: snowfall 13s linear infinite;
+          animation: snowfall 13s linear infinite;
+  -webkit-animation-delay: -7s;
+          animation-delay: -7s;
+}
+.snowflake:nth-child(49) {
+  --size: 1.2vw;
+  --left-ini: 9vw;
+  --left-end: 1vw;
+  left: 70vw;
+  -webkit-animation: snowfall 8s linear infinite;
+          animation: snowfall 8s linear infinite;
+  -webkit-animation-delay: -1s;
+          animation-delay: -1s;
+}
+.snowflake:nth-child(50) {
+  --size: 2.4vw;
+  --left-ini: 7vw;
+  --left-end: 2vw;
+  left: 27vw;
+  -webkit-animation: snowfall 6s linear infinite;
+          animation: snowfall 6s linear infinite;
+  -webkit-animation-delay: -4s;
+          animation-delay: -4s;
+}
+
+/* added small blur every 6 snowflakes*/
+.snowflake:nth-child(6n) {
+  -webkit-filter: blur(1px);
+          filter: blur(1px);
+}
+.starflake {
+  --size: 3vw;
+  width: var(--size);
+  height: var(--size);
+  background: white;
+  border-radius: 50%;
+  position: absolute;
+  top: -5vh;
+  background: url("data:image/png;base64,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") no-repeat;
+  background-size: 100% 100%;
+}
+@-webkit-keyframes starflash {
+0% {
+    opacity: 0;
+}
+100% {
+    opacity: 1;
+}
+}
+@keyframes starflash {
+0% {
+    opacity: 0;
+}
+100% {
+    opacity: 1;
+}
+}
+.starflake:nth-child(1) {
+  --size: 2.4vw;
+  --left-ini: 2vw;
+  --left-end: -7vw;
+  left: 56vw;
+  -webkit-animation: starflash 13s alternate infinite;
+          animation: starflash 13s alternate infinite;
+  -webkit-animation-delay: -7s;
+          animation-delay: -7s;
+}
+.starflake:nth-child(2) {
+  --size: 3vw;
+  --left-ini: -9vw;
+  --left-end: -7vw;
+  left: 91vw;
+  -webkit-animation: starflash 6s alternate infinite;
+          animation: starflash 6s alternate infinite;
+  -webkit-animation-delay: -5s;
+          animation-delay: -5s;
+}
+.starflake:nth-child(3) {
+  --size: 2.4vw;
+  --left-ini: -8vw;
+  --left-end: 1vw;
+  left: 85vw;
+  -webkit-animation: starflash 14s alternate infinite;
+          animation: starflash 14s alternate infinite;
+  -webkit-animation-delay: -1s;
+          animation-delay: -1s;
+}
+.starflake:nth-child(4) {
+  --size: 1.2vw;
+  --left-ini: -2vw;
+  --left-end: 5vw;
+  left: 6vw;
+  -webkit-animation: starflash 6s alternate infinite;
+          animation: starflash 6s alternate infinite;
+  -webkit-animation-delay: -6s;
+          animation-delay: -6s;
+}
+.starflake:nth-child(5) {
+  --size: 0.6vw;
+  --left-ini: 4vw;
+  --left-end: -9vw;
+  left: 53vw;
+  -webkit-animation: starflash 14s alternate infinite;
+          animation: starflash 14s alternate infinite;
+  -webkit-animation-delay: -10s;
+          animation-delay: -10s;
+}
+.starflake:nth-child(6) {
+  --size: 1.2vw;
+  --left-ini: -8vw;
+  --left-end: 7vw;
+  left: 19vw;
+  -webkit-animation: starflash 8s alternate infinite;
+          animation: starflash 8s alternate infinite;
+  -webkit-animation-delay: -5s;
+          animation-delay: -5s;
+}
+.starflake:nth-child(7) {
+  --size: 3vw;
+  --left-ini: 10vw;
+  --left-end: 7vw;
+  left: 79vw;
+  -webkit-animation: starflash 11s alternate infinite;
+          animation: starflash 11s alternate infinite;
+  -webkit-animation-delay: -1s;
+          animation-delay: -1s;
+}
+.starflake:nth-child(8) {
+  --size: 1.2vw;
+  --left-ini: 10vw;
+  --left-end: -5vw;
+  left: 67vw;
+  -webkit-animation: starflash 7s alternate infinite;
+          animation: starflash 7s alternate infinite;
+  -webkit-animation-delay: -2s;
+          animation-delay: -2s;
+}
+.starflake:nth-child(9) {
+  --size: 1.8vw;
+  --left-ini: 5vw;
+  --left-end: -1vw;
+  left: 65vw;
+  -webkit-animation: starflash 6s alternate infinite;
+          animation: starflash 6s alternate infinite;
+  -webkit-animation-delay: -2s;
+          animation-delay: -2s;
+}
+.starflake:nth-child(10) {
+  --size: 1.8vw;
+  --left-ini: -4vw;
+  --left-end: 4vw;
+  left: 48vw;
+  -webkit-animation: starflash 15s alternate infinite;
+          animation: starflash 15s alternate infinite;
+  -webkit-animation-delay: -8s;
+          animation-delay: -8s;
+}
+.starflake:nth-child(11) {
+  --size: 0.6vw;
+  --left-ini: -8vw;
+  --left-end: 10vw;
+  left: 81vw;
+  -webkit-animation: starflash 10s alternate infinite;
+          animation: starflash 10s alternate infinite;
+  -webkit-animation-delay: -10s;
+          animation-delay: -10s;
+}
+.starflake:nth-child(12) {
+  --size: 1.2vw;
+  --left-ini: 10vw;
+  --left-end: -2vw;
+  left: 95vw;
+  -webkit-animation: starflash 12s alternate infinite;
+          animation: starflash 12s alternate infinite;
+  -webkit-animation-delay: -7s;
+          animation-delay: -7s;
+}
+.starflake:nth-child(13) {
+  --size: 0.6vw;
+  --left-ini: 5vw;
+  --left-end: -5vw;
+  left: 15vw;
+  -webkit-animation: starflash 15s alternate infinite;
+          animation: starflash 15s alternate infinite;
+  -webkit-animation-delay: -1s;
+          animation-delay: -1s;
+}
+.starflake:nth-child(14) {
+  --size: 2.4vw;
+  --left-ini: -2vw;
+  --left-end: 1vw;
+  left: 57vw;
+  -webkit-animation: starflash 8s alternate infinite;
+          animation: starflash 8s alternate infinite;
+  -webkit-animation-delay: -6s;
+          animation-delay: -6s;
+}
+.starflake:nth-child(15) {
+  --size: 2.4vw;
+  --left-ini: -6vw;
+  --left-end: 10vw;
+  left: 55vw;
+  -webkit-animation: starflash 6s alternate infinite;
+          animation: starflash 6s alternate infinite;
+  -webkit-animation-delay: -10s;
+          animation-delay: -10s;
+}
+.starflake:nth-child(16) {
+  --size: 3vw;
+  --left-ini: 3vw;
+  --left-end: -3vw;
+  left: 15vw;
+  -webkit-animation: starflash 11s alternate infinite;
+          animation: starflash 11s alternate infinite;
+  -webkit-animation-delay: -7s;
+          animation-delay: -7s;
+}
+.starflake:nth-child(17) {
+  --size: 1.2vw;
+  --left-ini: -3vw;
+  --left-end: -8vw;
+  left: 52vw;
+  -webkit-animation: starflash 6s alternate infinite;
+          animation: starflash 6s alternate infinite;
+  -webkit-animation-delay: -3s;
+          animation-delay: -3s;
+}
+.starflake:nth-child(18) {
+  --size: 1.8vw;
+  --left-ini: -3vw;
+  --left-end: 2vw;
+  left: 34vw;
+  -webkit-animation: starflash 9s alternate infinite;
+          animation: starflash 9s alternate infinite;
+  -webkit-animation-delay: -9s;
+          animation-delay: -9s;
+}
+.starflake:nth-child(19) {
+  --size: 3vw;
+  --left-ini: -3vw;
+  --left-end: 3vw;
+  left: 86vw;
+  -webkit-animation: starflash 13s alternate infinite;
+          animation: starflash 13s alternate infinite;
+  -webkit-animation-delay: -3s;
+          animation-delay: -3s;
+}
+.starflake:nth-child(20) {
+  --size: 0.6vw;
+  --left-ini: 6vw;
+  --left-end: 10vw;
+  left: 36vw;
+  -webkit-animation: starflash 9s alternate infinite;
+          animation: starflash 9s alternate infinite;
+  -webkit-animation-delay: -4s;
+          animation-delay: -4s;
+}
+.starflake:nth-child(21) {
+  --size: 1.2vw;
+  --left-ini: -2vw;
+  --left-end: -1vw;
+  left: 89vw;
+  -webkit-animation: starflash 13s alternate infinite;
+          animation: starflash 13s alternate infinite;
+  -webkit-animation-delay: -4s;
+          animation-delay: -4s;
+}
+.starflake:nth-child(22) {
+  --size: 1.2vw;
+  --left-ini: 1vw;
+  --left-end: -3vw;
+  left: 19vw;
+  -webkit-animation: starflash 14s alternate infinite;
+          animation: starflash 14s alternate infinite;
+  -webkit-animation-delay: -9s;
+          animation-delay: -9s;
+}
+.starflake:nth-child(23) {
+  --size: 2.4vw;
+  --left-ini: -2vw;
+  --left-end: 5vw;
+  left: 39vw;
+  -webkit-animation: starflash 7s alternate infinite;
+          animation: starflash 7s alternate infinite;
+  -webkit-animation-delay: -9s;
+          animation-delay: -9s;
+}
+.starflake:nth-child(24) {
+  --size: 1.8vw;
+  --left-ini: 9vw;
+  --left-end: 1vw;
+  left: 37vw;
+  -webkit-animation: starflash 12s alternate infinite;
+          animation: starflash 12s alternate infinite;
+  -webkit-animation-delay: -9s;
+          animation-delay: -9s;
+}
+.starflake:nth-child(25) {
+  --size: 0.6vw;
+  --left-ini: 5vw;
+  --left-end: -3vw;
+  left: 98vw;
+  -webkit-animation: starflash 13s alternate infinite;
+          animation: starflash 13s alternate infinite;
+  -webkit-animation-delay: -10s;
+          animation-delay: -10s;
+}
+.starflake:nth-child(26) {
+  --size: 3vw;
+  --left-ini: 9vw;
+  --left-end: 6vw;
+  left: 40vw;
+  -webkit-animation: starflash 12s alternate infinite;
+          animation: starflash 12s alternate infinite;
+  -webkit-animation-delay: -7s;
+          animation-delay: -7s;
+}
+.starflake:nth-child(27) {
+  --size: 1.8vw;
+  --left-ini: 7vw;
+  --left-end: 4vw;
+  left: 46vw;
+  -webkit-animation: starflash 12s alternate infinite;
+          animation: starflash 12s alternate infinite;
+  -webkit-animation-delay: -6s;
+          animation-delay: -6s;
+}
+.starflake:nth-child(28) {
+  --size: 3vw;
+  --left-ini: -6vw;
+  --left-end: 0vw;
+  left: 15vw;
+  -webkit-animation: starflash 8s alternate infinite;
+          animation: starflash 8s alternate infinite;
+  -webkit-animation-delay: -3s;
+          animation-delay: -3s;
+}
+.starflake:nth-child(29) {
+  --size: 3vw;
+  --left-ini: 4vw;
+  --left-end: -9vw;
+  left: 23vw;
+  -webkit-animation: starflash 15s alternate infinite;
+          animation: starflash 15s alternate infinite;
+  -webkit-animation-delay: -9s;
+          animation-delay: -9s;
+}
+.starflake:nth-child(30) {
+  --size: 1.2vw;
+  --left-ini: -5vw;
+  --left-end: 7vw;
+  left: 82vw;
+  -webkit-animation: starflash 7s alternate infinite;
+          animation: starflash 7s alternate infinite;
+  -webkit-animation-delay: -1s;
+          animation-delay: -1s;
+}
+.starflake:nth-child(31) {
+  --size: 1.2vw;
+  --left-ini: 0vw;
+  --left-end: -7vw;
+  left: 15vw;
+  -webkit-animation: starflash 12s alternate infinite;
+          animation: starflash 12s alternate infinite;
+  -webkit-animation-delay: -7s;
+          animation-delay: -7s;
+}
+.starflake:nth-child(32) {
+  --size: 3vw;
+  --left-ini: 3vw;
+  --left-end: 3vw;
+  left: 34vw;
+  -webkit-animation: starflash 15s alternate infinite;
+          animation: starflash 15s alternate infinite;
+  -webkit-animation-delay: -9s;
+          animation-delay: -9s;
+}
+.starflake:nth-child(33) {
+  --size: 1.2vw;
+  --left-ini: -9vw;
+  --left-end: -4vw;
+  left: 92vw;
+  -webkit-animation: starflash 10s alternate infinite;
+          animation: starflash 10s alternate infinite;
+  -webkit-animation-delay: -3s;
+          animation-delay: -3s;
+}
+.starflake:nth-child(34) {
+  --size: 1.2vw;
+  --left-ini: 6vw;
+  --left-end: 1vw;
+  left: 57vw;
+  -webkit-animation: starflash 14s alternate infinite;
+          animation: starflash 14s alternate infinite;
+  -webkit-animation-delay: -5s;
+          animation-delay: -5s;
+}
+.starflake:nth-child(35) {
+  --size: 3vw;
+  --left-ini: 0vw;
+  --left-end: 7vw;
+  left: 91vw;
+  -webkit-animation: starflash 7s alternate infinite;
+          animation: starflash 7s alternate infinite;
+  -webkit-animation-delay: -2s;
+          animation-delay: -2s;
+}
+.starflake:nth-child(36) {
+  --size: 1.2vw;
+  --left-ini: -3vw;
+  --left-end: 5vw;
+  left: 84vw;
+  -webkit-animation: starflash 10s alternate infinite;
+          animation: starflash 10s alternate infinite;
+  -webkit-animation-delay: -1s;
+          animation-delay: -1s;
+}
+.starflake:nth-child(37) {
+  --size: 1.8vw;
+  --left-ini: 9vw;
+  --left-end: 1vw;
+  left: 93vw;
+  -webkit-animation: starflash 6s alternate infinite;
+          animation: starflash 6s alternate infinite;
+  -webkit-animation-delay: -1s;
+          animation-delay: -1s;
+}
+.starflake:nth-child(38) {
+  --size: 3vw;
+  --left-ini: -8vw;
+  --left-end: 4vw;
+  left: 74vw;
+  -webkit-animation: starflash 8s alternate infinite;
+          animation: starflash 8s alternate infinite;
+  -webkit-animation-delay: -9s;
+          animation-delay: -9s;
+}
+.starflake:nth-child(39) {
+  --size: 1.8vw;
+  --left-ini: 8vw;
+  --left-end: -3vw;
+  left: 76vw;
+  -webkit-animation: starflash 6s alternate infinite;
+          animation: starflash 6s alternate infinite;
+  -webkit-animation-delay: -1s;
+          animation-delay: -1s;
+}
+.starflake:nth-child(40) {
+  --size: 0.6vw;
+  --left-ini: 6vw;
+  --left-end: 7vw;
+  left: 54vw;
+  -webkit-animation: starflash 11s alternate infinite;
+          animation: starflash 11s alternate infinite;
+  -webkit-animation-delay: -5s;
+          animation-delay: -5s;
+}
+.starflake:nth-child(41) {
+  --size: 2.4vw;
+  --left-ini: 7vw;
+  --left-end: -8vw;
+  left: 55vw;
+  -webkit-animation: starflash 7s alternate infinite;
+          animation: starflash 7s alternate infinite;
+  -webkit-animation-delay: -8s;
+          animation-delay: -8s;
+}
+.starflake:nth-child(42) {
+  --size: 2.4vw;
+  --left-ini: 10vw;
+  --left-end: -4vw;
+  left: 67vw;
+  -webkit-animation: starflash 7s alternate infinite;
+          animation: starflash 7s alternate infinite;
+  -webkit-animation-delay: -9s;
+          animation-delay: -9s;
+}
+.starflake:nth-child(43) {
+  --size: 0.6vw;
+  --left-ini: -3vw;
+  --left-end: -7vw;
+  left: 7vw;
+  -webkit-animation: starflash 6s alternate infinite;
+          animation: starflash 6s alternate infinite;
+  -webkit-animation-delay: -8s;
+          animation-delay: -8s;
+}
+.starflake:nth-child(44) {
+  --size: 1.2vw;
+  --left-ini: 0vw;
+  --left-end: -4vw;
+  left: 39vw;
+  -webkit-animation: starflash 10s alternate infinite;
+          animation: starflash 10s alternate infinite;
+  -webkit-animation-delay: -3s;
+          animation-delay: -3s;
+}
+.starflake:nth-child(45) {
+  --size: 1.8vw;
+  --left-ini: -7vw;
+  --left-end: -5vw;
+  left: 72vw;
+  -webkit-animation: starflash 10s alternate infinite;
+          animation: starflash 10s alternate infinite;
+  -webkit-animation-delay: -10s;
+          animation-delay: -10s;
+}
+.starflake:nth-child(46) {
+  --size: 0.6vw;
+  --left-ini: 2vw;
+  --left-end: -2vw;
+  left: 85vw;
+  -webkit-animation: starflash 12s alternate infinite;
+          animation: starflash 12s alternate infinite;
+  -webkit-animation-delay: -8s;
+          animation-delay: -8s;
+}
+.starflake:nth-child(47) {
+  --size: 1.8vw;
+  --left-ini: -3vw;
+  --left-end: -5vw;
+  left: 30vw;
+  -webkit-animation: starflash 15s alternate infinite;
+          animation: starflash 15s alternate infinite;
+  -webkit-animation-delay: -4s;
+          animation-delay: -4s;
+}
+.starflake:nth-child(48) {
+  --size: 1.8vw;
+  --left-ini: -3vw;
+  --left-end: 9vw;
+  left: 91vw;
+  -webkit-animation: starflash 13s alternate infinite;
+          animation: starflash 13s alternate infinite;
+  -webkit-animation-delay: -7s;
+          animation-delay: -7s;
+}
+.starflake:nth-child(49) {
+  --size: 1.2vw;
+  --left-ini: 9vw;
+  --left-end: 1vw;
+  left: 70vw;
+  -webkit-animation: starflash 8s alternate infinite;
+          animation: starflash 8s alternate infinite;
+  -webkit-animation-delay: -1s;
+          animation-delay: -1s;
+}
+.starflake:nth-child(50) {
+  --size: 2.4vw;
+  --left-ini: 7vw;
+  --left-end: 2vw;
+  left: 27vw;
+  -webkit-animation: starflash 6s alternate infinite;
+          animation: starflash 6s alternate infinite;
+  -webkit-animation-delay: -4s;
+          animation-delay: -4s;
+}
+
+/* added small blur every 6 starflakes*/
+.starflake:nth-child(6n) {
+  -webkit-filter: blur(1px);
+          filter: blur(1px);
+}
+.anion {
+  -webkit-animation: 1.2s ani-on both cubic-bezier(0.45, 0.05, 0.55, 0.95);
+          animation: 1.2s ani-on both cubic-bezier(0.45, 0.05, 0.55, 0.95);
+}
+@-webkit-keyframes ani-on {
+0% {
+    -webkit-transform: scale(0.92);
+    transform: scale(0.92);
+}
+15% {
+    -webkit-transform: scale(1.2);
+    transform: scale(1.2);
+}
+32% {
+    -webkit-transform: scale(0.95);
+    transform: scale(0.95);
+}
+50% {
+    -webkit-transform: scale(1);
+    transform: scale(1);
+}
+to {
+    -webkit-transform: scale(1);
+    transform: scale(1);
+}
+}
+@keyframes ani-on {
+0% {
+    -webkit-transform: scale(0.92);
+    transform: scale(0.92);
+}
+15% {
+    -webkit-transform: scale(1.2);
+    transform: scale(1.2);
+}
+32% {
+    -webkit-transform: scale(0.95);
+    transform: scale(0.95);
+}
+50% {
+    -webkit-transform: scale(1);
+    transform: scale(1);
+}
+to {
+    -webkit-transform: scale(1);
+    transform: scale(1);
+}
+}
+page {
+  background-color: transparent !important;
+}
+.page {
+  width: 100%;
+  height: 100%;
+}
+.imageshadow {
+  box-shadow: 0 0px 10px -1px rgba(0, 0, 0, 0.05), 0 0px 10px -1px rgba(0, 0, 0, 0.05);
+}
+.card {
+  position: relative;
+  overflow: hidden;
+  background-color: white;
+  z-index: 10;
+  border-radius: 16px;
+}
+.card-body-bgline {
+  background-image: linear-gradient(135deg, rgba(255, 255, 255, 0.1), rgba(255, 255, 255, 0.1) 25%, rgba(255, 255, 255, 0) 25%, rgba(255, 255, 255, 0) 50%, rgba(255, 255, 255, 0.1) 50%, rgba(255, 255, 255, 0.1) 75%, rgba(255, 255, 255, 0) 75%, rgba(255, 255, 255, 0) 100%);
+  background-size: 10px 10px;
+}
+.box.boxbtn {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+  width: 100%;
+}
+.boxbtn .btncell {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  flex: 50%;
+  height: 80rpx;
+  margin-left: 10px;
+  text-align: center;
+  position: relative;
+  border-radius: 10px;
+}
+.boxbtn .btncell.important {
+  flex: 70%;
+  font-weight: bold;
+}
+.boxbtn .btncell .button,
+.userphoto .button {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border: none !important;
+  opacity: 0;
+  z-index: 15;
+}
+.boxbtn .btncell:first-child {
+  margin-left: 0rpx;
+}
+.bannerad {
+  display: flex;
+  justify-content: center;
+}
+.bannerad .ad {
+  flex: 1;
+}
+.setline.card-cell {
+  padding: 10rpx 40rpx;
+}
+.setline.card-cell .cell {
+  position: relative;
+}
+.setline.card-cell .cell .cell-item__body__content-title {
+  font-size: 17px;
+  font-weight: 500;
+}
+.setline.card-cell .cell .button {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border: none !important;
+  opacity: 0;
+  z-index: 15;
+}
+.setline.card-cell .cell-item__body__left .bee-icon {
+  margin-right: 10rpx;
+  font-size: 28px;
+}
+.session .titlearea {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  height: 50px;
+  position: relative;
+}
+.session .titlearea .cancel {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  width: 50px;
+  height: 50px;
+  position: absolute;
+  left: 0;
+}
+.session .titlearea .sumbit {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  height: 50px;
+  position: absolute;
+  right: 0;
+  font-size: 19px;
+  padding: 0 20px;
+}
+.session .titlearea .title {
+  font-size: 17px;
+  font-weight: bold;
+  position: relative;
+}
+.session .titlearea .title .image {
+  width: 300rpx;
+  height: 300rpx;
+  position: absolute;
+  top: -200rpx;
+  left: -150rpx;
+  background-color: transparent !important;
+}
+.popup-box-body {
+  padding: 18px 20px;
+  font-size: 19px;
+}
+.card-body-bgimg-cover {
+  background-size: cover;
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+}
+.topwrap {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 91;
+}
+.topwrap .before {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  left: 0;
+  top: 0;
+  z-index: 10;
+  opacity: 0;
+  display: none;
+}
+.topwrap.on .before {
+  opacity: 1;
+  display: flex;
+}
+.style1.cool3 .session-custom-li .menuclick {
+  text-align: center;
+}
+.style1.cool3 .session-custom-li .menuclick .view {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+.no-label {
+  display: none !important;
+}
+

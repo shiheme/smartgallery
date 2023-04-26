@@ -1,0 +1,87 @@
+{
+	"description": "项目私有配置文件。此文件中的内容将覆盖 project.config.json 中的相同字段。项目的改动优先同步到此文件中。详见文档：https://developers.weixin.qq.com/miniprogram/dev/devtools/projectconfig.html",
+	"libVersion": "2.30.2",
+	"projectname": "比比图文社",
+	"setting": {
+		"compileHotReLoad": false,
+		"preloadBackgroundData": false,
+		"lazyloadPlaceholderEnable": false,
+		"urlCheck": false
+	},
+	"condition": {
+		"miniprogram": {
+			"list": [
+				{
+					"name": "",
+					"pathName": "pagesB/single/single",
+					"query": "posttype=beebee_library&id=25",
+					"launchMode": "default",
+					"scene": null
+				},
+				{
+					"name": "",
+					"pathName": "pagesB/single/single",
+					"query": "posttype=beebee_library&id=121",
+					"launchMode": "default",
+					"scene": null
+				},
+				{
+					"name": "ss",
+					"pathName": "pagesB/single/single",
+					"query": "posttype=posts&id=441",
+					"launchMode": "default",
+					"scene": null
+				},
+				{
+					"name": "transfer",
+					"pathName": "pagesA/action/transfer",
+					"query": "",
+					"launchMode": "default",
+					"scene": null
+				},
+				{
+					"name": "",
+					"pathName": "pagesA/action/vipuse",
+					"query": "",
+					"launchMode": "default",
+					"scene": null
+				},
+				{
+					"name": "",
+					"pathName": "pagesB/single/quick",
+					"query": "id=589",
+					"launchMode": "default",
+					"scene": null
+				},
+				{
+					"name": "",
+					"pathName": "pagesA/action/vipuse",
+					"query": "",
+					"launchMode": "default",
+					"scene": null
+				},
+				{
+					"name": "",
+					"pathName": "pagesA/action/info",
+					"query": "",
+					"launchMode": "default",
+					"scene": null
+				},
+				{
+					"name": "",
+					"pathName": "pagesA/page/search",
+					"query": "",
+					"launchMode": "default",
+					"scene": null
+				},
+				{
+					"name": "",
+					"pathName": "pages/index/index",
+					"query": "gotourl=1&isshare=1&id=589",
+					"launchMode": "default",
+					"scene": null
+				}
+			]
+		}
+	}
+}

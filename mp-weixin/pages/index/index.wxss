@@ -1,0 +1,39 @@
+.wrap-tab.data-v-57280228 {
+  position: relative;
+  z-index: 97;
+  height: 100%;
+}
+.wrap-tab .wrap-main.data-v-57280228 {
+  position: relative;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  width: 100%;
+  height: 100vh;
+  z-index: 3;
+}
+.wrap-main-content.data-v-57280228 {
+  width: 100%;
+}
+.sharebox.data-v-57280228 {
+  width: 100vw;
+  height: 100vh;
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  z-index: 1;
+}
+.sharebox .msg.data-v-57280228 {
+  margin-top: 15px;
+}
+.sharebox .tohome.data-v-57280228 {
+  margin-top: 15px;
+  padding: 10px 25px;
+  border-radius: 25px;
+}
+

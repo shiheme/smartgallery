@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "bee-content-cell": "/components/bee-content-cell/bee-content-cell"
+  },
+  "component": true
+}

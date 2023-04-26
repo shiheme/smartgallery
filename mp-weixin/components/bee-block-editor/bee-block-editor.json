@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "mp-html": "/components/mp-html/mp-html"
+  },
+  "component": true
+}

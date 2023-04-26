@@ -1,0 +1,30 @@
+.cell .foot-box-icon.data-v-4533dbc4 {
+  opacity: 0.6;
+  width: 33px;
+  height: 33px;
+}
+.cell.active .foot-box-icon.data-v-4533dbc4,
+.cell.active .foot-box-content.data-v-4533dbc4 {
+  opacity: 1;
+}
+.foot-box-content.data-v-4533dbc4 {
+  display: none;
+  color: rgba(20, 20, 20, 0.6);
+}
+.showmenutext.data-v-4533dbc4 {
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+.showmenutext .foot-box-content.data-v-4533dbc4 {
+  display: flex;
+  margin-top: 2px;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.showmenutext .foot-box-icon.data-v-4533dbc4 {
+  width: 24px;
+  height: 24px;
+}
+

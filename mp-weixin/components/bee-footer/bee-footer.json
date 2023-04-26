@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "bee-footer-nav": "/components/bee-footer-nav/bee-footer-nav"
+  },
+  "component": true
+}

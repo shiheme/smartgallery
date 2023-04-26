@@ -1,0 +1,11 @@
+{
+  "navigationStyle": "default",
+  "navigationBarTitleText": "",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "bee-page": "/components/bee-page/bee-page",
+    "bee-nav-bar": "/components/bee-nav-bar/bee-nav-bar",
+    "bee-ico": "/components/bee-ico/bee-ico",
+    "bee-content-page": "/components/bee-content-page/bee-content-page"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "usingComponents": {
+    "bee-nav-bar": "/components/bee-nav-bar/bee-nav-bar",
+    "bee-ico": "/components/bee-ico/bee-ico",
+    "bee-cell-item": "/components/bee-cell-item/bee-cell-item"
+  },
+  "component": true
+}

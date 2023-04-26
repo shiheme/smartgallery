@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "bee-single-image": "/pagesB/components/bee-single-image/bee-single-image"
+  }
+}

@@ -1,0 +1,74 @@
+.navbar.data-v-db17987c {
+  position: fixed;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: auto;
+  z-index: 15;
+}
+.navbar__content.data-v-db17987c {
+  position: relative;
+  z-index: 15;
+}
+.navbar__header.data-v-db17987c {
+  position: relative;
+}
+.navbar__header-btns.data-v-db17987c {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  flex-direction: row;
+  position: relative;
+  z-index: 10;
+}
+.navbar__header-btns .btn.data-v-db17987c {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+.navbar__header-btns .btn .icon.data-v-db17987c {
+  width: 22px;
+  height: 22px;
+}
+.navbar__header-btns .btn .bee-icon.data-v-db17987c {
+  padding: 6px;
+  border-radius: 50%;
+  color: #ffffff;
+  opacity: 0.6;
+  text-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+.navbar__header-btns .btn .button.data-v-db17987c {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border: none !important;
+  opacity: 0;
+  z-index: 15;
+}
+.navbar__header-container.data-v-db17987c {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  z-index: 5;
+  width: 100%;
+  top: 0;
+  left: 0;
+}
+.navbar__header-container .nav-bar-text.data-v-db17987c {
+  font-size: 18px;
+  font-weight: 600;
+}
+.navbar.navbar_bg .btn .bee-icon.data-v-db17987c {
+  background-color: transparent;
+  text-shadow: none;
+}
+

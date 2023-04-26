@@ -1,0 +1,10 @@
+{
+  "navigationStyle": "custom",
+  "navigationBarTitleText": "",
+  "enablePullDownRefresh": false,
+  "renderer": "webview",
+  "usingComponents": {
+    "bee-ico": "/components/bee-ico/bee-ico",
+    "bee-menuclick": "/components/bee-menuclick/bee-menuclick"
+  }
+}

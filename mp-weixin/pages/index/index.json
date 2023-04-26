@@ -1,0 +1,14 @@
+{
+  "navigationStyle": "custom",
+  "enablePullDownRefresh": false,
+  "navigationBarTitleText": "",
+  "onReachBottomDistance": 100,
+  "usingComponents": {
+    "bee-page": "/components/bee-page/bee-page",
+    "bee-footer": "/components/bee-footer/bee-footer",
+    "bee-page-home": "/components/bee-page-home/bee-page-home",
+    "bee-page-find": "/components/bee-page-find/bee-page-find",
+    "bee-page-my": "/components/bee-page-my/bee-page-my",
+    "bee-content-one": "/components/bee-content-one/bee-content-one"
+  }
+}

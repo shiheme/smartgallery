@@ -1,0 +1,21 @@
+.topiclist.data-v-74f753e2 {
+  width: 100%;
+}
+.topiclist .head.data-v-74f753e2 {
+  display: flex;
+  flex-direction: column;
+}
+.topiclist .head .tit.data-v-74f753e2 {
+  font-size: 22px;
+  font-weight: bold;
+}
+.topiclist .head .desc.data-v-74f753e2 {
+  margin-top: 8px;
+  opacity: .6;
+  font-size: 13px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+

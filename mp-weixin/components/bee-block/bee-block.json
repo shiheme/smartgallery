@@ -1,0 +1,13 @@
+{
+  "usingComponents": {
+    "bee-block-swiper": "/components/bee-block-swiper/bee-block-swiper",
+    "bee-block-mark": "/components/bee-block-mark/bee-block-mark",
+    "bee-block-imggroup": "/components/bee-block-imggroup/bee-block-imggroup",
+    "bee-block-search": "/components/bee-block-search/bee-block-search",
+    "bee-block-button": "/components/bee-block-button/bee-block-button",
+    "bee-block-ads": "/components/bee-block-ads/bee-block-ads",
+    "bee-block-editor": "/components/bee-block-editor/bee-block-editor",
+    "bee-block-pan": "/components/bee-block-pan/bee-block-pan"
+  },
+  "component": true
+}
